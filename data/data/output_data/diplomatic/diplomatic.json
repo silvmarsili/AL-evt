@@ -1,0 +1,45 @@
+
+				{"pages": [
+				
+					 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : " ", 
+									"tags" : "1|1", 
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "false" 
+								}, 
+							
+									{
+									"line" : "AL_c1|par 1",
+									"text" : "1 [TB 45] [1] |1r| ‹...› chalura semençano lo grano e ll’altre biade dello mese do novembre et ricolgolle dello mese di março et altressì tucti fructi che albori menano. [2] E·llo mese di março non ci si truova né fonte né erba viva, se non secche per lla gran chalura, salvo che quelle delli dattali, le quali bastano verdi infino al maggio. [3] Ànno mollti giardini et in ciaschuno sono acque bellissime et quivi fuggano le genti lo gran caldo. [4] Le navi non e' inpeciano, ançi l’ungano con olio di pescie. [5] Quando l’uomo muore la moglie piangie ben iiij anni con gran lamento.",
+									"tags" : "1|1",
+									"loc" : "AL_fol_1r|1r",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "blabla",
+									"tags" : "1|1",
+									"loc" : "AL_fol_1v|1v",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "blabla",
+									"tags" : "1|1",
+									"loc" : "AL_fol_2r|2r",
+									"inFront": "false"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "blabla",
+									"tags" : "1|1",
+									"loc" : "AL_fol_2v|2v",
+									"inFront": "false"
+									},
+								 { "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+			

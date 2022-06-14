@@ -1,0 +1,981 @@
+
+				{"pages": [
+					 
+								{ 
+									"line" : "|", 
+									"text" : " ", 
+									"tags" : "VB_text_DOTR|The Dream of the Rood", 
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "false"
+								}, 
+							
+										{ 
+											"line" : "7|line 7",
+											"text" : "01  HWæt ic swefna cyst secgan wylle 02 hæta me gemætte",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "to midre nihte 03 syðþan reordberend reste wunedon.1",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "04 þuhte me þæt ic gesawe syllicre treow 05 on lyft",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "lædan leohte bewunden 06 beama beorhtost eall þæt",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "beacen wæs 07 begoten mid golde gimmas stodon 08 fægere",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "æt foldan sceatum . swylce þær fife wæron 09 uppe",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "on þam eaxlegespanne beheoldon þær engel dryht",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "nes ealle 10 fægere þurh forðgesceaft ne wæs ðær huru",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "fracodes gealga . 11 ac hine þær beheoldon halige gastas",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "12 men ofer moldan and eall þeos mære gesceaft",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "13 Syllic wæs se sigebeam and ic synnu synnum fah 14 forwunded",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "mid wommu wommum geseah ic wuldres treow. 15 wædum geweorðode",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "wynnu wynnum scinan 16 gegyred mid golde gimmas hæfdon",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "17 bewrigene weorðlice wealdes treow 18 hwæðre ic",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "þurh þæt gold ongytan meahte 19 earmra ærgewin",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "þæt hit ærest ongan 20 swætan on þa swiðran healfe",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "eall ic wæs mid surgum gedrefed . 21 Forht ic wæs for",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "þære fægran gesyhðe geseah ic þæt fuse beacen.",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_104v|104v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "  XV 105.  ",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "22 wendan wædum and bleom hwilum hit wæs mid wætan bestemed. 23 beswyled",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "mid swates gange . hwilum mid since gegyrwed . 24 hwæðre ic þær",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "licgende lange hwile. 25 beheold hreowcearig . hælendes treow.",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "26 oððæt ic gehyrde þæt hit hleoðrode 27 ongan þa word sprecan",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "wudu selesta 28 þæt wæs geara iu . ic þæt gyta geman . 29 þæt ic wæs",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "aheawen holtes on ende 30 astyred of stefne minu minum .genaman",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "me ðær strange feondas 31 geworhton him þær to wæfersyne",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "heton me heora wergas hebban . 32 bæron me ðær beornas",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "on eaxlum oððæt hie me on beorg asetton 33 gefæstnodon me",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "þær feondas genoge . geseah ic þa frean mancynnes 34 efstan",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "elne mycle þæt he me wolde on gestigan . 35 þær ic þa ne dorste",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "ofer dryhtnes word 36 bugan oððe berstan .þa ic bifian geseah",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "37 eorðan sceatas ealle ic mihte 38 feondas gefyllan hwæðre",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "ic fæste stod. 39 Ongyrede hine þa geong hæleð þæt wæs  God",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "ælmihtig 40 strang and stiðmod gestah he on gealgan heanne",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "41 modig on manigra gesyhðe. þa he wolde mancyn lysan .",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "42 ifode ic þa me se beorn ymbclypte . ne dorste ic hwæðre",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "bugan to eorðan 43 feallan to foldan sceatu sceatum . ac ic sceolde fæste",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "standan. 44 Rod wæs ic aræred . ahof ic ricne cyning 45 heofona",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "hlaford. hyldan me ne dorste . 46 þurhdrifan hi me mid",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "deorcan næglu næglum . on me syndon þa dolg gesiene 47 opene inwidhlemmas",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "ne dorste ic hira nænigu nænigum sceððan 48 bysmeredon hie",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "unc butu ætgædere eall ic wæs mid blode bestemed 49 .begoten of",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "þæs guman sidan siððan he hæfde his gast onsended. 50 feala",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "ic on þam beorge gebiden hæbbe 51 wraðra wyrda . geseah ic weruda",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "God 52 þearle þenian þystro hæfdon 53 bewrigen mid wolcnum",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "wealdendes hræw. 54 scirne sciman sceadu forðeode . 55 wann",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "under wolcnum weop eal gesceaft 56 cwiðdon cyninges fyll",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "Crist wæs on rode 57 hwæðere þær fuse feorran cwoman 58 to",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "þam æðelinge ic þæt eall beheold. 59 Sare ic wæs mid sorgum gedrefed",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "hnag ic hwæðre þam secgu secgum to handa 60 eaðmod elne mycle",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "genamon hie þær ælmihtigne God 61 ahofon hine of ðam",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105r|105r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "hefian wite forleton me þa hilderincas 62 standan steame",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "bedrifenne eall ic wæs mid strælum forwundod 63 aledon hie",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "ðær limwerigne gestodon him æt his lices heafdu heafdum 64 beheoldon hie",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "ðær heofenes dryhten and he hine ðær hwile reste 65 meðe æfter",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "ðam miclan gewinne. Ongunnon him þa mold[[æ]]|e|rn wyrcan",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "66 beornas on banan gesyhðe curfon hie ðæt of beorhtan stane",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "67 gesetton hie ðær on sigora wealdend ongunnon him þa sorhleoð",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "galan 68 earme on þa æfentide þa hie woldon eft siðian",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "69 meðe fram þam mæran þeodne reste he ðær mæte weorode",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "70 hwæðere we ðær reotende gode hwile . 71 stodon on staðole syððan",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "stefn up ge wat 72 hilderinca . hræw colode 73 fæger feorgbold þa us",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "man fyllan ongan . 74 ealle to eorðan þæt wæs egeslic wyrd",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "75 bedealf us man on deopan seaþe hwæðre me þær dryhtnes",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "þegnas 76 freondas gefrunon 77 ond gyredon me golde and seolfre.",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "78 Nu ðu miht gehyran hæleð min se leofa 79 þæt ic bealuwara",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "weorc gebiden hæbbe 80 sarra sorga is nu sæl cumen 81 þæt me",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "weorðiað wide and side 82 menn ofer moldan and eall þeos mære",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "gesceaft . 83 gebiddaþ him toþyssum beacne on me bearn Godes",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "84 þrowode hwile forþan ic þrymfæst nu. 85 hlifige under",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "heofenu heofenum. and ic hælan mæg . 86 æghwylcne anra þara þe him bið",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "egesa to me 87 iu icwæs geworden wita heardost . 88 leodum laðost",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "ærþan ic him lifes weg 89 rihtne gerymde ",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "reord berendū reordberendum",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : " 90 hwæt me þa geweorðode wuldres ealdor 91 ",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "oferholmwudu ofer holmwudu",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : " heofon rices weard, 92 swylce swa he his modor eac",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "marian sylfe 93 ælmihtig God . for ealle menn 94 geweorðode",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "ofer eall wifa cynn. 95 Nu ic þe hate hæleð.min se leofa.",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "96 þæt ðu þas gesyhðe secge mannu mannum 97 onwreoh wordu wordum þæt hit is",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "wuldres beam 98 se ðe ælmihtig God on þrowode. 99 ",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "formancynnꞅ for mancynnes",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : " manegu manegum synnu synnum . 100 and  Adames ealdgewyrhtum 101 deað he",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "þær byrigde hwæðere eft dryhten aras 102 mid his miclan",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "mihte mannu mannum to helpe 103 he ða on heofenas astag . hider",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "eft fundaþ 104 on þy middangeard mancynn secan 105 on",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_105v|105v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : " 106. ",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "domdæge dryhten sylfa 106 ælmihtig God and his englas mid . 107 þæt he",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "þonne wile deman se ah domes geweald 108 anra gehwylcum swa he",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "him ærur her 109 on þyssum lænum life geearnaþ . 110 ne mæg þær",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "ænig unforht wesan . 111 for þam worde . þe se wealdend cwyð. 112 frineð",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "he for þære mænige hwær se man sie 113 se ðe for ",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "dr htneꞅ dryhtnes",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : " naman deaðes  wo \\l// de 114 biteres onbyrigan swa he ær on",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "ðam beame dyde . 115 ac hie þonne forhtiað .and fea þencaþ 116 hwæt hie to",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "Criste cweðan onginnen . 117 Ne þearf ðær þonne ænig unforht",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "wesan 118 þe him ær in breostum bereð beacna selest . 119 Ac ðurh",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "ða rode sceal rice gesecan 120 of eorðwege æghwylc sawl 121 seo þe",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "mid wealdende wunian þenceð 122 gebæd ic me þa to þan beame",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "bliðemode 123 elne mycle þær ic ana wæs 124 mæte werede wæs",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "modsefa 125 afysed on forðwege feala ealra gebad 126 langunghwila",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "is me nu lifes hyht 127 þæt  \\ic//  þone sigebeam secan mote",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "128 ana oftor þonne ealle men 129 well weorþian me is willa to ðam",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "130 mycel on mode and min mund byrd is 131 geriht to þære rode .",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "Nah ic ricra feala 132 freonda on foldan[[on]] ac hie forð heonon",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "133 gewiton of worulde dreamum sohton him wuldres cyning",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "134 lifiaþ nu on heofenum mid heahfædere 135 wuniaþ on wuldre and ic wene",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "me 136 daga gehwylce hwænne me dryhtnes rod 137 þe ic her ",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "oneorðan on eorðan",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : " ær sceawode 138 on þysson lænan life gefetige 139 and me þon þonne gebring",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "þær is blis mycel 140 dream on heofonu heofonum þær is dryhtnes folc 141 geseted",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "to symle þær is singal blis 142 he þon þonne asette þær ic",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "syþþan mot 143 wunian on wuldre well mid þam halgu halgum 144 dreames",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "brucan si me dryhten freond 145 se ðe heer on eorþan ær þrowode",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "146 onþam gealgtreowe for guman synnu synnum 147 he us onlysde and us lif",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "forgeaf 148 heofonlicne ham hiht wæs geniwad 149 mid bledu bledum and mid blisse",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "þa þe þær bryne þolodan. 150 se Sunu wæs sigorfæst on þa siðfate",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "151 mihtig and spedig þa he mid manigeo com 152 gasta weorode",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "[[o]]on Godes rice 153 anwealda ælmihtig englu englum to blisse. 154 and eallum",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "ðam halgu halgum þam þe on heofonum ær 155 wunedon on wuldre þa heora",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "wealdend cwom 156 ælmihtig God þær his eðel wæs",
+											"tags" : "VB_text_DOTR|The Dream of the Rood",
+											"loc" : "VB_fol_106r|106r",
+											"inFront": "false"
+										},
+									 
+				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+			
