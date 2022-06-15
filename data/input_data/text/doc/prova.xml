@@ -126,6 +126,76 @@
       <surface xml:id="AL_surf_2v" corresp="#AL_fol_2v">
          <graphic height="2448px" width="3264px" url="AL_fol_2v.jpg"/>
       </surface>
+      <surface xml:id="AL_surf_3r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_3r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_3v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_3v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_4r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_4r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_4v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_4v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_5r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_5r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_5v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_5v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_6r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_6r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_6v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_6v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_7r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_7r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_7v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_7v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_8r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_8r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_8v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_8v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_9r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_9r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_9v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_9v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_10r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_10r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_10v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_10v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_11r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_11r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_11v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_11v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_12r" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_12r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_12v" corresp="#">
+         <graphic height="2448px" width="3264px" url="AL_fol_12v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_18r" corresp="#">
+         <graphic height="1980px" width="2928px" url="AL_fol_18r.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_18v" corresp="#">
+         <graphic height="1920px" width="2828px" url="AL_fol_18v.jpg"/>
+      </surface>
+      <surface xml:id="AL_surf_19r" corresp="#">
+         <graphic height="1892px" width="2792px" url="AL_fol_19r.jpg"/>
+      </surface>
+      
    </facsimile>
 
    <text>
