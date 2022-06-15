@@ -6,7 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Il Milione del ms. Alexianus I,3 della Biblioteca Sant'Alessio Falconieri di Roma</title>
+            <title>Il Milione del ms. Alexianus I,3 della Biblioteca Sant'Alessio Falconieri di
+               Roma</title>
             <author>Marco Polo</author>
             <editor>Silvia Marsili</editor>
          </titleStmt>
@@ -195,7 +196,7 @@
       <surface xml:id="AL_surf_19r" corresp="#AL_fol_19r">
          <graphic height="1892px" width="2792px" url="AL_fol_19r.jpg"/>
       </surface>
-      
+
    </facsimile>
 
    <text>
@@ -434,49 +435,240 @@
             </p>
 
             <pb xml:id="AL_fol_3r" corresp="#AL_surf_3r" n="3r"/>
-            
+
+            <p>|3r| alla terra dove era lo GrandeChane et per llo camino trovarono di mollte
+               meravigliose chose le quali si conteranno in questo libro.</p>
+
+            <p xml:id="AL_c8" n="8">
+               <seg xml:id="AL_c8_p1" n="1">[1] ‹Q›uando li due fratelli fuor giunti al Gran Cane e
+                  lli due fratelli furono veduti mollto volentieri et fecie loro grande honore et
+                  grande allegreçça mostrò della loro venuta. </seg>
+               <seg xml:id="AL_c8_p2" n="2">[2] Et domandò loro della condiçione delli latini et
+                  mollto sagacemente prese a domandare dello Imperadore delli Cristiani: chome
+                  manteneva sua signoria in giustitia et come faceva quando aveva guerra co·lla
+                  gente e in che modo andava quando andava a hoste o in battaglie o in tucte sue
+                  conditioni domandò.</seg>
+               <seg xml:id="AL_c8_p3" n="3">[3] Poi li domandò de’ re et delli principi delli
+                  latini, poi dimandò con grande diligençia di messer llo papa, conditioni della
+                  sancta ecclesia di Roma et di tucte le condiçioni et di tucte l’usançe de’ Latini. </seg>
+               <seg xml:id="AL_c8_p4" n="4">[4] Messer Niccholò e messer Maffeo, li quali erano savi
+                  e cognioscenti et aveano inparata la lingua tartarescha, rispuosero a ciaschun
+                  puncto per sé bene et ordinatamente, come si conveniva. </seg>
+               <seg xml:id="AL_c8_p5" n="5">[5] Quando lo Gran Cane intese le conditioni de’ latini
+                  mostrò che mollto li piacessero et disse alli suoi baroni che voleva mandare
+                  ambasciadori allo papa delli Cristiani, et pregò messer Niccholò et messer Maffeo,
+                  che a lloro dovesse piacere di fare la sua ambasciata con uno de’ suoi baroni a
+                  messer lo papa. </seg>
+               <seg xml:id="AL_c8_p6" n="6">[6] Li due fratelli rispuosero ch’ellino erano
+                  apparecchiati d’ubidire interamente tucti li suoi comandamenti. </seg>
+               <seg xml:id="AL_c8_p7" n="7">[7] Allora lo Gran Chane fece venire uno delli suoi
+                  baroni, che aveva nome Conchatally et disse che voleva ch’elli andasse al papa con
+                  quelli due latini. </seg>
+               <seg xml:id="AL_c8_p8" n="8">[8] Et quello barone rispuose ch’elli era apparecchiato
+                  d’ubidire tucti li suoi comandamenti. </seg>
+               <seg xml:id="AL_c8_p9" n="9">[9] Allora lo Gran Cane fece fare le sue lectere al papa
+                  ch’elli dovesse mandare infino a c huomini li quali fossero ben savi in della
+                  leggie delli Cristiani et che sapessero bene disputare et dimostrare apertamente a
+                  llui et alla sua gente et a tucti quelli ch e adorano l’idoli come la loro leggie
+                  none è buona et come adorare l’idoli sie operatione di diavoli, et che sappiano
+                  mostrare bene per ragione allo populo che lla fede et la legge de’ Cristiani è la
+                  milliore che ssia al mondo etr chom’ella sia migliore che quella delli Tartari. </seg>
+               <seg xml:id="AL_c8_p10" n="10">[10] Questo mandò per sua lectera in lingua
+                  tartarescha. </seg>
+               <seg xml:id="AL_c8_p11" n="11">[11] Ancho li preghòe lo Gran Chane ch’elli portssero
+                  dello olio della lampana che arde denançi</seg>
+            </p>
+
             <pb xml:id="AL_fol_3v" corresp="#AL_surf_3v" n="3v"/>
-            
+
+            <p>
+               <seg>allo Sancto Sepolcro di Gesù Cristo, lo quale è in Gerusalem.</seg>
+               <seg xml:id="AL_c8_p12" n="12">[12] Et facto questo fecie fare una tavola d’oro nella
+                  quale fecie scrivere ch’elli comandava a tucta gente di sua signioria per lle cui
+                  terre passassero questi tre suoi anbasciadori, ch’elli dovessero interamente
+                  provedere di cavalli, di compagnia et di scorta, e ccioè dovesse fare ciaschuno
+                  suo comune, dall’una terra all’altra.</seg>
+            </p>
+
+            <p xml:id="AL_c9" n="9">
+               <seg xml:id="AL_c9_p1" n="1">[1] ‹A›pparecchiati che furono li detti messer Niccholò,
+                  messer Maffeo et messer Concataly di tucte quelle cose che a lloro bisogniavano,
+                  ellino tolssero commiato dallo Gran Chane et montarono a chavallo et cominciarono
+                  a chavalchare. </seg>
+               <seg xml:id="AL_c9_p2" n="2">[2] Et in tucte le contrade dove ellino mostravano le
+                  tavole dell’oro ellino furono ubiditi et serviti interamente sicome ellino seppero
+                  adomandare. </seg>
+               <seg xml:id="AL_c9_p3" n="3">[3] Et così caminando giunsero alla Yaçça. E tre anni
+                  chaminarono ançi che fossero giunti alla Yaçça, perciò che trovarono mollti gran
+                  fiumi ch’erano sì grandi in alchuno luogho che conveniva che aspectassero tanto
+                  che ll’acqua manchasse et talvolta per lli mali temporali che lli convenia
+                  soggiornare. </seg>
+               <seg xml:id="AL_c9_p4" n="4">[4] Poi si partirono dalla Iaçça et giunsero a meçço
+                  aprile nelli anni domini .m.ccL.xxij. di Iacri et quivi trovarono novelle che llo
+                  papa era morto, lo quale aveva nome papa Chimenti. </seg>
+               <seg xml:id="AL_c9_p5" n="5">[5] Quando intesero novelle che papa Chlementi era morto
+                  andarono a uno valente e a un gran cherico da Piacença, lo quale era legato per
+                  lla chiesa di Roma nelle parti d’oltramare et era in Acri, lo quale si teneva per
+                  lli Cristiani. </seg>
+               <seg xml:id="AL_c9_p6" n="6">[6] Andarono a lluj et dispuosero la loro ambasciata. </seg>
+               <seg xml:id="AL_c9_p7" n="7">[7] Lo leghato udìo volentieri quelle novelle et diede
+                  loro consiglio ch’ellino aspectassero tanto che nuovo papa fosse electo, sicché a
+                  llui facessero la nuova ambasciata.</seg>
+               <seg xml:id="AL_c9_p8" n="8">[8] Allora li due fratelli si partirono dalla città
+                  d’Acri et vennero a Negroponte et da Nnegroponte venneno a Vinesgia per vedere le
+                  loro famiglie et per volere aspectare quivi tanto che nuovo papa fosse electo. </seg>
+               <seg xml:id="AL_c9_p9" n="9">[9] Quando li due fratelli furono giunti a Vinegia,
+                  messer Niccholo trovò che lla donna sua era morta et erane rimaso vn fanciullo
+                  maschio che aveva nome Marcho, lo quale messer Niccholò non aveva già mai veduto,
+                  perciò quando s’era partito da Vinegia aveva lasciata la ddonna sua gravida. </seg>
+               <seg xml:id="AL_c9_p10" n="10">[10] Et aveva Marcho compiuti xv anni. </seg>
+               <seg xml:id="AL_c9_p11" n="11">[11] Questo è quello Marcho che compuose questo
+                  libbro. </seg>
+               <seg xml:id="AL_c9_p12" n="12">[12] Et così stectero li due fratelli a Vinesgia due
+                  anni per aspectare la leçione dello papa, ma veggiendo che troppo</seg>
+            </p>
+
             <pb xml:id="AL_fol_4r" corresp="#AL_surf_4r" n="4r"/>
-            
+
+            <p>
+               <seg>|4r| s’indugiava si partirono et tornarono in Acri et menarono con loro Marcho,
+                  e ttornaro allo legato lo quale avemo nominato di sopra. </seg>
+               <seg xml:id="AL_c9_p13" n="13">[13] Inde andarono in Gerusalem e tolsero dello olio
+                  della lampana dello nostro signiore Gesù Cristo et tornarono in Acri et presero
+                  chumiato dallo legato per tornare allo gran Cane.</seg>
+               <seg xml:id="AL_c9_p14" n="14">[14] Allora lo legato fecie fare sue lectere per
+                  mandare allo gran chane, le quali diede loro testimoniança chom’ellino erano stati
+                  fidelmente per fare la loro ambasciata ma non ne aveano possuto fare la loro
+                  ambasciata perciò che lla chiesa di Roma non aveva pastore.</seg>
+               <seg xml:id="AL_c9_p15" n="15">[15] Et così si partirono con quelle lectere et
+                  giunseno alla Yaçça.</seg>
+            </p>
+
+            <p xml:id="AL_c10" n="10">
+               <seg xml:id="AL_c10_p1" n="1">[1] ‹I›nfra questo tempo nuovo pastore fue electo per
+                  lla chiesa di Roma, lo quale fu chiamato papa Grigorio da Piascença. </seg>
+               <seg xml:id="AL_c10_p2" n="2">[2] Sicche llo legato tostamente saputa la novela mandò
+                  un corrierri loro dritro significando loro che nuovo papa era electo et che
+                  dovessero tornare incontenente adrietro. </seg>
+               <seg xml:id="AL_c10_p3" n="3">[3] Allora lo re d’Erminia fece loro apparechiare una
+                  ghalea. </seg>
+               <seg xml:id="AL_c10_p4" n="4">[4] Ellino entrarono nella detta galea et tanto
+                  navigarono ch’ellino arrivarono a messer lo papa a Roma. </seg>
+               <seg xml:id="AL_c10_p5" n="5">[5] Lo papa li vidde mollto volentieri et diede loro
+                  sue lectere che lle portassero allo Gran Chane, et diede loro due frati
+                  predicatori che andassero con loro. </seg>
+               <seg xml:id="AL_c10_p6" n="6">[6] L’uno aveva nome fratre Niccholo da Vincença,
+                  l’altro aveva nome fratre Guilielmo da Tripoli, li quali erano molto savi huomini
+                  et valenti di sciena. </seg>
+               <seg xml:id="AL_c10_p7" n="7">[7] Et così se n’andarono insieme alla Yaçça et stando
+                  quine lo soldano di Babbillonia venne in Erminia con grande hoste et fecie grande
+                  danno per llo paese. </seg>
+               <seg xml:id="AL_c10_p8" n="8">[8] Siché lli due fratelli e lli frati con loro fuorono
+                  a pericolo d’esser morti: siché lli fratri temendo non potessero andare rimasero
+                  collo signiore dello tempio. </seg>
+               <seg xml:id="AL_c10_p9" n="9">[9] E lli due fratelli si feceo dare tucte le lectere
+                  et andarono iançi et menarono con lloro Marcho. </seg>
+               <seg xml:id="AL_c10_p10" n="10">[10] Et tanto cavalcaro per lloro giornate che
+                  giunsero a una città chiamata Clemenfu et quivi trovarono lo Gran Chane. </seg>
+               <seg xml:id="AL_c10_p11" n="11">[11] Et dalla città di Yaçça alla città di Chlemenfu
+                  puosero a ppassare tre anni per cagione de’ fiumi, de’ freddi, delle nievi et
+                  delli altri rei tempi, siché pocho poterono caminare per die.</seg>
+            </p>
+
+            <p xml:id="AL_c11" n="11">
+               <seg xml:id="AL_c11_p1" n="1">[1] ‹S›appiendo lo Gran Chane per suoi corrieri che
+                  messer Niccholò et messer Maffeo tornavano elli mandò incontro suoi messi bene xl
+                  giornate, li quali fecero troppo ben servire questi anbasciadori. </seg>
+               <seg xml:id="AL_c11_p2" n="2">[2] Quando furo giunti si andarono con mollta baronia
+                  inançi allo Gran Chane et inginochiarollisi a’ piedi. </seg>
+               <seg xml:id="AL_c11_p3" n="3">[3] Et feceli stare in piedi et domandòlli come avieno
+                  fatto con messer lo papa et come avieno facto per camino. </seg>
+               <seg xml:id="AL_c11_p4" n="4">[4] Ellino rispuosero bene et ordinatamente a tucte
+                  quelle chose ch’ellino dovieno rispondere et apresentarli le lectere di messer lo
+                  papa, e' quali elli ricevette molto allegramente. </seg>
+               <seg xml:id="AL_c11_p5" n="5">[5] Poi li ripresentarono l’olio lo quale ellino avieno
+                  regato di</seg>
+            </p>
+
             <pb xml:id="AL_fol_4v" corresp="#AL_surf_4v" n="4v"/>
-            
+
+            <p>
+               <seg>Gerusalem, lo quale elli ricevette con mollta grande reverença et ben mostrò
+                  ch’elli l’avesse mollto caro et fecelo riporre mollto honoratamente. </seg>
+               <seg xml:id="AL_c11_p6" n="6">[6] Poi domandò chie era Marcho: messer Nicholò
+                  rispuose ch’era suo figliuolo e llo signiore gli fece grandi chareççe et chosì
+                  dimorando nella corte dello Gran Chane erano mollto onorati da quelli della corte
+                  tanto quanto alcun altro barone. </seg>
+               <seg xml:id="AL_c11_p7" n="7">[7] Marcho in pocho tempo inprese gli costumi de’
+                  Tartari e llo loro linguaggio etiandio di loro .iiij°. lingue divise, imparò a
+                  leggere et a scrivere in quelle lingue. </seg>
+               <seg xml:id="AL_c11_p8" n="8">[8] Et per lla bella maniera et per lli belli costumi
+                  ch’elli aveva venne in grandissima gratia dello Gran Cane et di tucti li baroni
+                  dello paese. </seg>
+               <seg xml:id="AL_c11_p9" n="9">[9] Volle lo signiore ch’elli inparasse a ffare una
+                  ambasciata. </seg>
+               <seg xml:id="AL_c11_p10" n="10">[10] Et così lo mandò a una terra a ffare ambasciata,
+                  alla quale puose tempo di sei mesi ançi che giungesse. </seg>
+               <seg xml:id="AL_c11_p11" n="11">[11] Et per cui che Marcho sapeva che llo signiore
+                  udiva volentieri novelle spesse vollte li suoi compagni no·lli sapevano bene dire
+                  le condiçioni delle terre donde passavano, perciò che llo signiore diceva ch’elli
+                  era altrectando karo che lli suoi messi passavano chome facessero bene la
+                  principale ambasciata. </seg>
+               <seg xml:id="AL_c11_p12" n="12">[12] Marcho sappiendo che ciòe piacieva mollto al
+                  signiore con grande diligentia attese a ssapere le condiçioni delle contrade
+                  ond’elli passava. </seg>
+               <seg xml:id="AL_c11_p13" n="13">[13] Sicché quando elli tornò al signiore elli seppe
+                  troppo bene rendere sua ambasciata et aveva facto troppo bene per quello che lli
+                  emitò et seppe troppo bene raccontare le novitadi elle condiçioni delle contrade
+                  per lle quali era passato. </seg>
+               <seg xml:id="AL_c11_p14" n="14">[14] Onde per questo venne in mollta graçia dello
+                  signore. </seg>
+               <seg xml:id="AL_c11_p15" n="15">[15] Sicché da inde inançi omandò che fosse chiamato
+                  messer Marcho nella sua corte et così dimoròe in sua corte xvi. anni. </seg>
+               <seg xml:id="AL_c11_p16" n="16">[16] Et in tucto questo empo non fece quasi altro che
+                  ffare ambasciate perciòe che llo signiore cogniobbe che ssapeva troppo bene essere
+                  a quello mestiere, onde che tutte le grandi ambasciate chommetteva in lui. </seg>
+               <seg xml:id="AL_c11_p17" n="17">[17] Et perciò gli mostrava tanto amore et facevali
+                  tanto onore che mollti baroni della corte gli portavano invidia per llo tanto bene
+                  operare.</seg>
+            </p>
+
             <pb xml:id="AL_fol_5r" corresp="#AL_surf_5r" n="5r"/>
-            
+
             <pb xml:id="AL_fol_5v" corresp="#AL_surf_5v" n="5v"/>
-            
+
             <pb xml:id="AL_fol_6r" corresp="#AL_surf_6r" n="6r"/>
-            
+
             <pb xml:id="AL_fol_7r" corresp="#AL_surf_7r" n="7r"/>
-            
+
             <pb xml:id="AL_fol_7v" corresp="#AL_surf_7v" n="7v"/>
-            
+
             <pb xml:id="AL_fol_8r" corresp="#AL_surf_8r" n="8r"/>
-            
+
             <pb xml:id="AL_fol_8v" corresp="#AL_surf_8v" n="8v"/>
-            
+
             <pb xml:id="AL_fol_9r" corresp="#AL_surf_9r" n="9r"/>
-            
+
             <pb xml:id="AL_fol_9v" corresp="#AL_surf_9v" n="9v"/>
-            
+
             <pb xml:id="AL_fol_10r" corresp="#AL_surf_10r" n="10r"/>
-            
+
             <pb xml:id="AL_fol_10v" corresp="#AL_surf_10v" n="10v"/>
-            
+
             <pb xml:id="AL_fol_11r" corresp="#AL_surf_11r" n="11r"/>
-            
+
             <pb xml:id="AL_fol_11v" corresp="#AL_surf_11v" n="11v"/>
-            
+
             <pb xml:id="AL_fol_12r" corresp="#AL_surf_12r" n="12r"/>
-            
+
             <pb xml:id="AL_fol_12v" corresp="#AL_surf_12v" n="12v"/>
-            
+
             <pb xml:id="AL_fol_18r" corresp="#AL_surf_18r" n="18r"/>
-            
+
             <pb xml:id="AL_fol_18v" corresp="#AL_surf_18v" n="18v"/>
-            
+
             <pb xml:id="AL_fol_19r" corresp="#AL_surf_19r" n="19r"/>
-               
+
          </div>
       </body>
    </text>
