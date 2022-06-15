@@ -126,73 +126,73 @@
       <surface xml:id="AL_surf_2v" corresp="#AL_fol_2v">
          <graphic height="2448px" width="3264px" url="AL_fol_2v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_3r" corresp="#">
+      <surface xml:id="AL_surf_3r" corresp="#AL_fol_3r">
          <graphic height="2448px" width="3264px" url="AL_fol_3r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_3v" corresp="#">
+      <surface xml:id="AL_surf_3v" corresp="#AL_fol_3v">
          <graphic height="2448px" width="3264px" url="AL_fol_3v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_4r" corresp="#">
+      <surface xml:id="AL_surf_4r" corresp="#AL_fol_4r">
          <graphic height="2448px" width="3264px" url="AL_fol_4r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_4v" corresp="#">
+      <surface xml:id="AL_surf_4v" corresp="#AL_fol_4v">
          <graphic height="2448px" width="3264px" url="AL_fol_4v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_5r" corresp="#">
+      <surface xml:id="AL_surf_5r" corresp="#AL_fol_5r">
          <graphic height="2448px" width="3264px" url="AL_fol_5r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_5v" corresp="#">
+      <surface xml:id="AL_surf_5v" corresp="#AL_fol_5v">
          <graphic height="2448px" width="3264px" url="AL_fol_5v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_6r" corresp="#">
+      <surface xml:id="AL_surf_6r" corresp="#AL_fol_6r">
          <graphic height="2448px" width="3264px" url="AL_fol_6r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_6v" corresp="#">
+      <surface xml:id="AL_surf_6v" corresp="#AL_fol_6v">
          <graphic height="2448px" width="3264px" url="AL_fol_6v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_7r" corresp="#">
+      <surface xml:id="AL_surf_7r" corresp="#AL_fol_7r">
          <graphic height="2448px" width="3264px" url="AL_fol_7r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_7v" corresp="#">
+      <surface xml:id="AL_surf_7v" corresp="#AL_fol_7v">
          <graphic height="2448px" width="3264px" url="AL_fol_7v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_8r" corresp="#">
+      <surface xml:id="AL_surf_8r" corresp="#AL_fol_8r">
          <graphic height="2448px" width="3264px" url="AL_fol_8r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_8v" corresp="#">
+      <surface xml:id="AL_surf_8v" corresp="#AL_fol_8v">
          <graphic height="2448px" width="3264px" url="AL_fol_8v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_9r" corresp="#">
+      <surface xml:id="AL_surf_9r" corresp="#AL_fol_9r">
          <graphic height="2448px" width="3264px" url="AL_fol_9r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_9v" corresp="#">
+      <surface xml:id="AL_surf_9v" corresp="#AL_fol_9v">
          <graphic height="2448px" width="3264px" url="AL_fol_9v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_10r" corresp="#">
+      <surface xml:id="AL_surf_10r" corresp="#AL_fol_10r">
          <graphic height="2448px" width="3264px" url="AL_fol_10r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_10v" corresp="#">
+      <surface xml:id="AL_surf_10v" corresp="#AL_fol_10v">
          <graphic height="2448px" width="3264px" url="AL_fol_10v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_11r" corresp="#">
+      <surface xml:id="AL_surf_11r" corresp="#AL_fol_11r">
          <graphic height="2448px" width="3264px" url="AL_fol_11r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_11v" corresp="#">
+      <surface xml:id="AL_surf_11v" corresp="#AL_fol_11v">
          <graphic height="2448px" width="3264px" url="AL_fol_11v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_12r" corresp="#">
+      <surface xml:id="AL_surf_12r" corresp="#AL_fol_12r">
          <graphic height="2448px" width="3264px" url="AL_fol_12r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_12v" corresp="#">
+      <surface xml:id="AL_surf_12v" corresp="#AL_fol_12v">
          <graphic height="2448px" width="3264px" url="AL_fol_12v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_18r" corresp="#">
+      <surface xml:id="AL_surf_18r" corresp="#AL_fol_18r">
          <graphic height="1980px" width="2928px" url="AL_fol_18r.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_18v" corresp="#">
+      <surface xml:id="AL_surf_18v" corresp="#AL_fol_18v">
          <graphic height="1920px" width="2828px" url="AL_fol_18v.jpg"/>
       </surface>
-      <surface xml:id="AL_surf_19r" corresp="#">
+      <surface xml:id="AL_surf_19r" corresp="#AL_fol_19r">
          <graphic height="1892px" width="2792px" url="AL_fol_19r.jpg"/>
       </surface>
       
@@ -433,6 +433,50 @@
                   intero per Grecho e per Tramontana ançi ch’ellino giun|gessero</seg>
             </p>
 
+            <pb xml:id="AL_fol_3r" corresp="#AL_surf_3r" n="3r"/>
+            
+            <pb xml:id="AL_fol_3v" corresp="#AL_surf_3v" n="3v"/>
+            
+            <pb xml:id="AL_fol_4r" corresp="#AL_surf_4r" n="4r"/>
+            
+            <pb xml:id="AL_fol_4v" corresp="#AL_surf_4v" n="4v"/>
+            
+            <pb xml:id="AL_fol_5r" corresp="#AL_surf_5r" n="5r"/>
+            
+            <pb xml:id="AL_fol_5v" corresp="#AL_surf_5v" n="5v"/>
+            
+            <pb xml:id="AL_fol_6r" corresp="#AL_surf_6r" n="6r"/>
+            
+            <pb xml:id="AL_fol_7r" corresp="#AL_surf_7r" n="7r"/>
+            
+            <pb xml:id="AL_fol_7v" corresp="#AL_surf_7v" n="7v"/>
+            
+            <pb xml:id="AL_fol_8r" corresp="#AL_surf_8r" n="8r"/>
+            
+            <pb xml:id="AL_fol_8v" corresp="#AL_surf_8v" n="8v"/>
+            
+            <pb xml:id="AL_fol_9r" corresp="#AL_surf_9r" n="9r"/>
+            
+            <pb xml:id="AL_fol_9v" corresp="#AL_surf_9v" n="9v"/>
+            
+            <pb xml:id="AL_fol_10r" corresp="#AL_surf_10r" n="10r"/>
+            
+            <pb xml:id="AL_fol_10v" corresp="#AL_surf_10v" n="10v"/>
+            
+            <pb xml:id="AL_fol_11r" corresp="#AL_surf_11r" n="11r"/>
+            
+            <pb xml:id="AL_fol_11v" corresp="#AL_surf_11v" n="11v"/>
+            
+            <pb xml:id="AL_fol_12r" corresp="#AL_surf_12r" n="12r"/>
+            
+            <pb xml:id="AL_fol_12v" corresp="#AL_surf_12v" n="12v"/>
+            
+            <pb xml:id="AL_fol_18r" corresp="#AL_surf_18r" n="18r"/>
+            
+            <pb xml:id="AL_fol_18v" corresp="#AL_surf_18v" n="18v"/>
+            
+            <pb xml:id="AL_fol_19r" corresp="#AL_surf_19r" n="19r"/>
+               
          </div>
       </body>
    </text>
